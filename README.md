@@ -1,7 +1,7 @@
 ### Hi I'm Yuly <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p>
-I am a Electrical Engineering at the Antioquia University in Medellín, but my life changed and I found my true vocation and how grateful I am, because I am very happy programming 💗..</p>
+I am an Electrical Engineering at the Antioquia University in Medellín, but my life changed and I found my true vocation and how grateful I am, because I am very happy programming 💗..</p>
 <p> 🌻 When I am not programming, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and I like to read horror books.👯</p>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
