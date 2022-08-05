@@ -22,10 +22,6 @@ I am a Electrical Engineering at the Antioquia University in Medellín, but my l
 
 <br/>
 
-
- ![Yuly-katherine github stats](https://github-readme-stats.vercel.app/api?username=Yuly-katherine&show_icons=true)
-  
-
 <b>⭐️ I love connecting with different people so if you want to say hi, I'll be happy to meet you more!:)</b>
   
 
