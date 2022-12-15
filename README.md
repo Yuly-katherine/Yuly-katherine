@@ -15,7 +15,6 @@ I am an Electrical Engineering at the Antioquia University in Medellín, but my 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Vuejs](https://img.shields.io/badge/-Vuejs-339933?style=flat-square&logo=Vue.js&logoColor=ffffff)
-![Reactjs](https://img.shields.io/badge/-Reactjs-339933?style=flat-square&logo=React.js&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
