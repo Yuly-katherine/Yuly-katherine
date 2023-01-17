@@ -24,7 +24,7 @@ I am an Electrical Engineering at the Antioquia University in Medellín, but my 
 <b>⭐️ I love connecting with different people so if you want to say hi, I'll be happy to meet you more!:)</b>
   
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> THAT'S ME !
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ¡THAT'S ME !
 
 
 
