@@ -25,24 +25,16 @@ También he explorado otras tecnologías como **React** y **TypeScript**. Aunque
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/PrimeVue-2E3440?style=for-the-badge&logo=prime&logoColor=white" />
-  <img src="https://img.shields.io/badge/Element%20Plus-409EFF?style=for-the-badge&logo=element&logoColor=white" />
-  <img src="https://img.shields.io/badge/BootstrapVue-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&logoWidth=20" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/PrimeVue-42b883?style=flat&logo=prime&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/Element_Plus-409EFF?style=flat&logo=element&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/BootstrapVue-7952B3?style=flat&logo=bootstrap&logoColor=white&logoWidth=20" />
 </p>
 
 ---
-
-### 🌱 En constante crecimiento...
-
-Estoy construyendo mi camino con **pasión, curiosidad** y una enorme disposición para seguir creciendo,  
-**tanto como profesional como persona.** 🤍
-
----
-
 
 Gracias por leerme 🌸  
 _Yuly Katherine Gómez_
