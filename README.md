@@ -1,18 +1,16 @@
-# 👋 Hello everyone!
+# 👋 Hi!
 
 ## 🌸 I'm Yuly Gómez
 
 ¡Hola! Mi nombre es **Yuly Katherine Gómez** y soy desarrolladora **Frontend**.  
 Me considero una persona **amable, empática** y con una fuerte convicción de que la **calidez humana es tan importante como las habilidades técnicas**.
 
----
 
 ### 🐱 Sobre mí
 
 Más allá del código, hay cosas que me hacen muy feliz: ¡**los gatos**! 🐾  
 Tengo una hermosa gata llamada **Autora**, quien es mi compañera de aventuras diarias.
 
----
 
 ### 💻 Experiencia Tecnológica
 
@@ -20,7 +18,6 @@ He trabajado durante varios años con el framework **Vue.js**, utilizando **Java
 
 También he explorado otras tecnologías como **React** y **TypeScript**. Aunque mi experiencia con ellas aún es limitada, **estoy trabajando activamente para mejorar y ampliar mis conocimientos**, porque **siempre estoy en búsqueda de nuevos aprendizajes**. 💡
 
----
 
 ### 🛠️ Tech Stack & Skills
 
@@ -34,8 +31,5 @@ También he explorado otras tecnologías como **React** y **TypeScript**. Aunque
   <img src="https://img.shields.io/badge/BootstrapVue-7952B3?style=flat&logo=bootstrap&logoColor=white&logoWidth=20" />
 </p>
 
----
-
 Gracias por leerme 🌸  
-_Yuly Katherine Gómez_
 
