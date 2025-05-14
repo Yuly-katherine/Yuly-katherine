@@ -11,13 +11,6 @@ Más allá del código, hay cosas que me hacen muy feliz: ¡los gatos! 🐾
 Tengo una hermosa gata llamada Autora, quien es mi compañera de aventuras diarias.
 
 
-### 💻 Experiencia Tecnológica
-
-He trabajado durante varios años con el framework Vue.js, utilizando JavaScript y diversas librerías para crear experiencias web intuitivas y funcionales.
-
-También he explorado otras tecnologías como React y TypeScript. Aunque mi experiencia con ellas aún es limitada, **estoy trabajando activamente para mejorar y ampliar mis conocimientos**, porque **siempre estoy en búsqueda de nuevos aprendizajes**. 💡
-
-
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
@@ -30,5 +23,5 @@ También he explorado otras tecnologías como React y TypeScript. Aunque mi expe
   <img src="https://img.shields.io/badge/BootstrapVue-7952B3?style=flat&logo=bootstrap&logoColor=white&logoWidth=20" />
 </p>
 
-Gracias por leerme 🌸  
+Gracias por leerme ♥️ 
 
