@@ -1,13 +1,13 @@
 
 ## 🌸 I'm Yuly Gómez
 
-¡Hola! Mi nombre es **Yuly Katherine Gómez** y soy desarrolladora **Frontend**.  
-Me considero una persona amable, empática y con una fuerte convicción de que la **calidez humana es tan importante como las habilidades técnicas**.
+¡Hola! Mi nombre es Yuly Katherine Gómez y soy desarrolladora Frontend.  
+Me considero una persona amable, empática y con una fuerte convicción de que la calidez humana es tan importante como las habilidades técnicas.
 
 
 ### 🐱 Sobre mí
 
-Más allá del código, hay cosas que me hacen muy feliz: ¡los gatos! 🐾  
+Más allá del código, hay cosas que me hacen muy feliz: ¡los gatos!   
 Tengo una hermosa gata llamada Autora, quien es mi compañera de aventuras diarias.
 
 
