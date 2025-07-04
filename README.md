@@ -8,7 +8,7 @@ Me considero una persona amable, empática y con una fuerte convicción de que l
 ### 🐱 Sobre mí
 
 Más allá del código, hay cosas que me hacen muy feliz: ¡los gatos!   
-Tengo una hermosa gata llamada Autora, quien es mi compañera de aventuras diarias.
+Tengo una hermosa gata llamada Aurora, quien es mi compañera de aventuras diarias.
 
 
 ### 🛠️ Tech Stack & Skills
